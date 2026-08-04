@@ -31,12 +31,12 @@ genetics, GWAS, and genomic prediction.
 **Workflows & reproducibility** · Snakemake · Conda · Docker · Singularity/Apptainer · Git · CI
 
 **Genomics** · Metagenomics (kraken2/Bracken, assembly, binning) · Nanopore (ONT) & Illumina ·
-Variant calling · GWAS · Genomic prediction · Functional genomics · SLURM/HPC
+Variant calling · GWAS · Genomic prediction · Functional genomics · SLURM/HPC · Imaging (Confocal Light Microscopy)
 
 **ML/DL** · PyTorch · TensorFlow · Hugging Face Transformers · fine-tuning nucleotide transformers
 
 **Wet lab** · DNA/RNA extraction · RT-qPCR · SISPA · virus enrichment (ultracentrifugation) ·
-ONT & Illumina library prep · cloning · transfection · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF) · Imaging (Confocal Light Microscopy)
+ONT & Illumina library prep · cloning · transfection · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF)
 
 ---
 
