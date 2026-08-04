@@ -26,7 +26,7 @@ genetics, GWAS, and genomic prediction.
 
 ## Toolkit
 
-**Languages** · Python · R · Bash
+**Languages** · Python · R · Bash · JS
 
 **Workflows & reproducibility** · Snakemake · Conda · Docker · Singularity/Apptainer · Git · CI
 
