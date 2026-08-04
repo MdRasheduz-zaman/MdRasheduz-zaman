@@ -26,16 +26,16 @@ genetics, GWAS, and genomic prediction.
 
 ## Toolkit
 
-**Languages** · Python · R · Bash · JS
+**Languages:** · Python · R · Bash · JS
 
-**Workflows & reproducibility** · Snakemake · Conda · Docker · Singularity/Apptainer · Git · CI
+**Workflows & reproducibility:** · Snakemake · Conda · Docker · Singularity/Apptainer · Git · CI
 
-**Genomics** · Metagenomics (kraken2/Bracken, assembly, binning) · Nanopore (ONT) & Illumina ·
+**Genomics:** · Metagenomics (kraken2/Bracken, assembly, binning) · Nanopore (ONT) & Illumina ·
 Variant calling · GWAS · Genomic prediction · Functional genomics · SLURM/HPC · Imaging (Confocal Light Microscopy)
 
-**ML/DL** · PyTorch · TensorFlow · Hugging Face Transformers · fine-tuning nucleotide transformers
+**ML/DL:** · PyTorch · TensorFlow · Hugging Face Transformers · fine-tuning nucleotide transformers
 
-**Wet lab** · DNA/RNA extraction · RT-qPCR · SISPA · virus enrichment (ultracentrifugation) ·
+**Wet lab:** · DNA/RNA extraction · RT-qPCR · SISPA · virus enrichment (ultracentrifugation) ·
 ONT & Illumina library prep · cloning · transfection · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF)
 
 ---
