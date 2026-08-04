@@ -36,7 +36,7 @@ Variant calling · GWAS · Genomic prediction · Functional genomics · SLURM/HP
 **ML/DL** · PyTorch · TensorFlow · Hugging Face Transformers · fine-tuning nucleotide transformers
 
 **Wet lab** · DNA/RNA extraction · RT-qPCR · SISPA · virus enrichment (ultracentrifugation) ·
-ONT & Illumina library prep · cloning · transfection
+ONT & Illumina library prep · cloning · transfection · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF) · Imaging (Confocal Light Microscopy)
 
 ---
 
@@ -56,4 +56,5 @@ ONT & Illumina library prep · cloning · transfection
 
 [LinkedIn](https://www.linkedin.com/in/md-rashed-uz-zaman) ·
 [ORCID](https://orcid.org/my-orcid?orcid=0009-0009-9982-3640) ·
+[HuggingFace](https://huggingface.co/mdrash/ntv2_50m_finetuned_vir) ·
 md.rasheduzzaman.ugoe[@]gmail.com
