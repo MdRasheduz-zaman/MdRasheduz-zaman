@@ -36,7 +36,7 @@ Variant calling · GWAS · Genomic prediction · Functional genomics · SLURM/HP
 **ML/DL:** · PyTorch · TensorFlow · Hugging Face Transformers · fine-tuning nucleotide transformers
 
 **Wet lab:** · DNA/RNA extraction · RT-qPCR · SISPA · virus enrichment (ultracentrifugation) ·
-ONT & Illumina library prep · cloning · transfection · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF)
+ONT & Illumina library prep · cloning · transfection · LMH cell culture · Neurobiological staining (HES, LFB) · Neurobiological techniques (ISH, IF)
 
 ---
 
