@@ -42,8 +42,6 @@ ONT & Illumina library prep · cloning · transfection · LMH cell culture · Ne
 
 ## Selected publications
 
-- Vaiman A., Castille J., … **Rasheduzzaman M.**, … Duchesne A. *A novel function for KIF1C in
-  myelination and myelin maintenance.* (in preparation, 2026)
 - Hasan M.M., Das R., **Rasheduzzaman M.**, et al. *Global and local mutations in Bangladeshi
   SARS-CoV-2 genomes.* **Virus Research** 297 (2021).
 - Lokman S.M., **Rasheduzzaman M.**, et al. *Exploring the genomic and proteomic variations of
