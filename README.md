@@ -4,7 +4,7 @@
 
 Completed a project in metagenomics (University of Greifswald/Friedrich-Loeffler-Institut), where I built a Snakemake pipeline for taxonomic profiling of the commensal RNA virome in mosquitoes and fine-tuned nucleotide-transformer foundation model for viral classification. Before that, my bachelor on Biotechnology (University of Chittagong) and a European Master in Animal Breeding and Genetics (University of Goettingen/AgroParisTech) — quantitative genetics, GWAS, and genomic prediction — all provided me the philosophy of integrative biology and systems thinking.
 
-**Currently looking for postdoc or industry roles in computational biology/bioinformatics, Genetics/Breeding, experimental biology or related field.**
+**Currently looking for postdoc, research associate/assistant or industry roles in computational biology/bioinformatics, Genetics/Breeding, experimental biology or related field.**
 
 ---
 
