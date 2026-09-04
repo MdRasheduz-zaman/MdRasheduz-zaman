@@ -4,7 +4,7 @@
 
 Completed a project in metagenomics (University of Greifswald/Friedrich-Loeffler-Institut), where I built a Snakemake pipeline for taxonomic profiling of the commensal RNA virome in mosquitoes and fine-tuned nucleotide-transformer foundation model for viral classification. Before that, my bachelor on Biotechnology (University of Chittagong) and a European Master in Animal Breeding and Genetics (University of Goettingen/AgroParisTech) — quantitative genetics, GWAS, and genomic prediction — all provided me the philosophy of integrative biology and systems thinking.
 
-**Currently looking for postdoc, research associate/assistant or industry roles in computational biology/bioinformatics, Genetics/Breeding, experimental biology or related field.**
+**Currently looking for PhD, research associate/assistant or industry roles in computational biology/bioinformatics, Genetics/Breeding, experimental biology or related field.**
 
 ---
 
@@ -37,7 +37,7 @@ ONT & Illumina library prep · cloning · transfection · LMH cell culture · Ne
 
 ## Selected publications
 
-- A novel function for KIF1C in myelination and myelin maintenance (In preparation, my MS thesis project from INRAE Jouy-en-Josas)
+- A novel function for KIF1C in myelination and myelin maintenance (Submitted to GLIA, my MS thesis project from INRAE Jouy-en-Josas)
 - Hasan M.M., Das R., **Rasheduzzaman M.**, et al. *Global and local mutations in Bangladeshi
   SARS-CoV-2 genomes.* **Virus Research** 297 (2021).
 - Lokman S.M., **Rasheduzzaman M.**, et al. *Exploring the genomic and proteomic variations of
